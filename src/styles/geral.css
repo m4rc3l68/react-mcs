@@ -1,25 +1,36 @@
 .botao_cor1 {
   background-color: rgb(245, 19, 19);
+  width: 50px;
+  height: 50px;
   border-radius: 50%;
   font-size: 1.5rem;
   border: none;
   padding: 10px;
-  display: flex;
-  align-items: center;
+  margin-right: 20px;
 }
 
 .botao_cor2 {
   background-color: #af0df0;
+  width: 50px;
+  height: 50px;
   border-radius: 50%;
   font-size: 1.5rem;
   border: none;
   padding: 10px;
+  margin-right: 20px;
 }
 
 .botao_cor3 {
   background-color: #13c0f5;
+  width: 50px;
+  height: 50px;
   border-radius: 50%;
   font-size: 1.5rem;
   border: none;
   padding: 10px;
+  margin-right: 15px;
+}
+
+.formatacaoGeral {
+  font-size: 4rem;
 }
